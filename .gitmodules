@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mohsaqr/mohsaqr.r-universe.dev
 	branch = HEAD
+[submodule "Nestimate"]
+	path = Nestimate
+	url = https://github.com/mohsaqr/Nestimate
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/mohsaqr/snakeplot
