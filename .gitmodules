@@ -5,6 +5,9 @@
 [submodule "Nestimate"]
 	path = Nestimate
 	url = https://github.com/mohsaqr/Nestimate
+[submodule "bibnets"]
+	path = bibnets
+	url = https://github.com/mohsaqr/bibnets
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/mohsaqr/snakeplot
