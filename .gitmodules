@@ -8,6 +8,9 @@
 [submodule "bibnets"]
 	path = bibnets
 	url = https://github.com/mohsaqr/bibnets
+[submodule "cooccur"]
+	path = cooccur
+	url = https://github.com/mohsaqr/cooccur
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/mohsaqr/snakeplot
