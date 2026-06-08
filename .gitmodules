@@ -11,6 +11,9 @@
 [submodule "cooccure"]
 	path = cooccure
 	url = https://github.com/mohsaqr/cooccure
+[submodule "lagseq"]
+	path = lagseq
+	url = https://github.com/mohsaqr/lagseq
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/mohsaqr/snakeplot
