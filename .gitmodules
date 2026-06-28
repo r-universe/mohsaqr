@@ -14,6 +14,9 @@
 [submodule "lagseq"]
 	path = lagseq
 	url = https://github.com/mohsaqr/lagseq
+[submodule "psychnets"]
+	path = psychnets
+	url = https://github.com/mohsaqr/psychnet
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/mohsaqr/snakeplot
