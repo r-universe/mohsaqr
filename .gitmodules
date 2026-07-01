@@ -11,9 +11,12 @@
 [submodule "cooccure"]
 	path = cooccure
 	url = https://github.com/mohsaqr/cooccure
-[submodule "lagseq"]
-	path = lagseq
-	url = https://github.com/mohsaqr/lagseq
+[submodule "idiographic"]
+	path = idiographic
+	url = https://github.com/mohsaqr/idiographic
+[submodule "lagdynamics"]
+	path = lagdynamics
+	url = https://github.com/mohsaqr/lagdynamics
 [submodule "psychnets"]
 	path = psychnets
 	url = https://github.com/mohsaqr/psychnet
