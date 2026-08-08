@@ -23,3 +23,6 @@
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/mohsaqr/snakeplot
+[submodule "tsn"]
+	path = tsn
+	url = https://github.com/mohsaqr/tsn
