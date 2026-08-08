@@ -8,6 +8,9 @@
 [submodule "bibnets"]
 	path = bibnets
 	url = https://github.com/mohsaqr/bibnets
+[submodule "carmar"]
+	path = carmar
+	url = https://github.com/mohsaqr/CarmaR-releases
 [submodule "cooccure"]
 	path = cooccure
 	url = https://github.com/mohsaqr/cooccure
