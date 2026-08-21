@@ -5,6 +5,15 @@
 [submodule "Nestimate"]
 	path = Nestimate
 	url = https://github.com/mohsaqr/Nestimate
+[submodule "Saqrlab"]
+	path = Saqrlab
+	url = https://github.com/mohsaqr/Saqrlab
+[submodule "Saqrmisc"]
+	path = Saqrmisc
+	url = https://github.com/mohsaqr/Saqrmisc
+[submodule "VaSSTra"]
+	path = VaSSTra
+	url = https://github.com/sonsoleslp/vasstra
 [submodule "bibnets"]
 	path = bibnets
 	url = https://github.com/mohsaqr/bibnets
@@ -23,9 +32,15 @@
 [submodule "psychnets"]
 	path = psychnets
 	url = https://github.com/mohsaqr/psychnet
+[submodule "sbert"]
+	path = sbert
+	url = https://github.com/sonsoleslp/sbert
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/mohsaqr/snakeplot
+[submodule "transitiontrees"]
+	path = transitiontrees
+	url = https://github.com/mohsaqr/transitiontrees
 [submodule "tsn"]
 	path = tsn
 	url = https://github.com/mohsaqr/tsn
