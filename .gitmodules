@@ -22,10 +22,28 @@
 	url = https://github.com/mohsaqr/bibnets
 [submodule "carmar"]
 	path = carmar
-	url = https://github.com/mohsaqr/CarmaR-releases
+	url = https://github.com/mohsaqr/carmarpkg
+[submodule "codyna"]
+	path = codyna
+	url = https://github.com/santikka/codyna
+[submodule "cograph"]
+	path = cograph
+	url = https://github.com/mohsaqr/cograph
 [submodule "cooccure"]
 	path = cooccure
 	url = https://github.com/mohsaqr/cooccure
+[submodule "dynarules"]
+	path = dynarules
+	url = https://github.com/mohsaqr/dynarules
+[submodule "honets"]
+	path = honets
+	url = https://github.com/mohsaqr/honets
+[submodule "htna"]
+	path = htna
+	url = https://github.com/sonsoleslp/htna
+[submodule "hypernets"]
+	path = hypernets
+	url = https://github.com/mohsaqr/hypernets
 [submodule "idiographic"]
 	path = idiographic
 	url = https://github.com/mohsaqr/idiographic
@@ -34,13 +52,19 @@
 	url = https://github.com/mohsaqr/lagdynamics
 [submodule "psychnets"]
 	path = psychnets
-	url = https://github.com/mohsaqr/psychnet
+	url = https://github.com/mohsaqr/psychnets
 [submodule "sbert"]
 	path = sbert
 	url = https://github.com/sonsoleslp/sbert
+[submodule "simulab"]
+	path = simulab
+	url = https://github.com/mohsaqr/simulab
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/mohsaqr/snakeplot
+[submodule "texthypergraph"]
+	path = texthypergraph
+	url = https://github.com/mohsaqr/texthypergraph
 [submodule "transitiontrees"]
 	path = transitiontrees
 	url = https://github.com/mohsaqr/transitiontrees
