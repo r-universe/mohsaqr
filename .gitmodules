@@ -22,7 +22,7 @@
 	url = https://github.com/mohsaqr/bibnets
 [submodule "carmar"]
 	path = carmar
-	url = https://github.com/mohsaqr/carmarpkg
+	url = https://github.com/mohsaqr/CarmaR-releases
 [submodule "codyna"]
 	path = codyna
 	url = https://github.com/santikka/codyna
