@@ -32,15 +32,12 @@
 [submodule "cooccure"]
 	path = cooccure
 	url = https://github.com/mohsaqr/cooccure
-[submodule "dynarules"]
-	path = dynarules
-	url = https://github.com/mohsaqr/dynarules
-[submodule "honets"]
-	path = honets
-	url = https://github.com/mohsaqr/honets
 [submodule "htna"]
 	path = htna
 	url = https://github.com/sonsoleslp/htna
+[submodule "hypernets"]
+	path = hypernets
+	url = https://github.com/mohsaqr/hypernets
 [submodule "idiographic"]
 	path = idiographic
 	url = https://github.com/mohsaqr/idiographic
@@ -59,9 +56,6 @@
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/mohsaqr/snakeplot
-[submodule "texthypergraph"]
-	path = texthypergraph
-	url = https://github.com/mohsaqr/texthypergraph
 [submodule "transitiontrees"]
 	path = transitiontrees
 	url = https://github.com/mohsaqr/transitiontrees
