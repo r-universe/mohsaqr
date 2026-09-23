@@ -44,9 +44,9 @@
 [submodule "lagdynamics"]
 	path = lagdynamics
 	url = https://github.com/mohsaqr/lagdynamics
-[submodule "multilpa"]
-	path = multilpa
-	url = https://github.com/mohsaqr/multilpa
+[submodule "latents"]
+	path = latents
+	url = https://github.com/mohsaqr/latents
 [submodule "psychnets"]
 	path = psychnets
 	url = https://github.com/mohsaqr/psychnets
