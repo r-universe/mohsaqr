@@ -35,6 +35,9 @@
 [submodule "htna"]
 	path = htna
 	url = https://github.com/sonsoleslp/htna
+[submodule "hypergraphs"]
+	path = hypergraphs
+	url = https://github.com/mohsaqr/hypergraphs
 [submodule "hypernets"]
 	path = hypernets
 	url = https://github.com/mohsaqr/hypernets
